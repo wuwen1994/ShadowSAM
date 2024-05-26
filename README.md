@@ -1,5 +1,5 @@
 # Make Segment Anything Model Perfect on Shadow Detection
-by Xiao-Diao Chen, Wen Wu, Wenya Yang, Hongshuai Qin, Xiantao Wu, and Xiaoyang Mao
+by Xiao-Diao Chen, Wen Wu, Hongshuai Qin, Xiantao Wu, and Xiaoyang Mao
 
 #### News: In 2023.7.6, We release the unsorted code for other researchers. The sorted code will be released after.
 
